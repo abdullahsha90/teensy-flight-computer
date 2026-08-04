@@ -1,0 +1,14 @@
+#Python
+.venv
+_pycache__
+*.pyc
+
+#VSCode
+.vscode
+
+#FlightLogs
+FlightLogs/*
+
+#Operating System Files
+Thumbs.db
+.DS_Store
